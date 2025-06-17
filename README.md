@@ -30,7 +30,7 @@ Step 4: Import the Database
 1. Open your browser and go to: http://localhost/phpmyadmin
 2. Click New on the left sidebar and create a database name: myproject
 3. Click the myproject DB → Go to Import
-4. Click Choose File and select the .sql file from the project folder (in ecommerce-php/database/myproject.sql)
+4. Click Choose File and select the .sql file from the project folder (in database/myproject.sql)
 5. Click Go to import
 ```
 
